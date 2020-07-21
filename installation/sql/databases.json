@@ -1,0 +1,13 @@
+{
+    "site.sql": {
+        "dbtype": "mysqli",
+        "dbtech": "mysql",
+        "dbname": "wordpress",
+        "sqlfile": "site.sql",
+        "dbhost": "localhost",
+        "dbuser": "root",
+        "dbpass": "",
+        "prefix": "wp_",
+        "parts": 3
+    }
+}

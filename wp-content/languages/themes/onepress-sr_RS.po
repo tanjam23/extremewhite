@@ -1,0 +1,1800 @@
+# Translation of Themes - OnePress in Serbian
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-24 12:54:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the plugin/theme
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : http://www.famethemes.com/preview/?theme=OnePress)"
+msgstr "OnePress је изванредна креативна и флексибилна Вордпрес тема погодна за пословну веб страницу, портфолио, дигиталну агенцију, приказ производа, фриленсере и све остале који цене добар дизајн. Тема је у потпуности елегантна и класична, добар пример Bootstrap 4-ке и теме која је компатибилна са најновијим издањем Вукомерц-а (Live preview : http://www.famethemes.com/preview/?theme=OnePress)"
+
+#. #-#-#-#-#  onepress.pot (OnePress 2.0.9)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/dashboard.php:361
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/dashboard.php:394
+msgid "Create a support ticket"
+msgstr "Направи тикет за подршку"
+
+#: inc/customizer.php:526
+msgid "Transparent Logo Height in Pixel"
+msgstr "Висина транспарентног логоа у пикселима"
+
+#: inc/customizer.php:1717
+msgid "Open Button #2 In New Window"
+msgstr "Отворити дугме #2 у новом прозору"
+
+#: inc/customizer.php:1651
+msgid "Open Button #1 In New Window"
+msgstr "Отворити дугме #1 у новом прозору"
+
+#: functions.php:102
+msgid "Pirate Forms"
+msgstr "Пиратски обрасци"
+
+#: inc/metabox.php:173
+msgid "Apply header cover settings for single product."
+msgstr "Применити подешавања заглавља корице појединачног производа."
+
+#: inc/dashboard.php:517
+msgid "Keep %s updated"
+msgstr "Задржати %s ажурирано"
+
+#: inc/dashboard.php:438
+msgid "Your settings were copied."
+msgstr "Ваша подешавања су копирана."
+
+#: inc/metabox.php:164
+msgid "Hide footer."
+msgstr "Сакриј подножје."
+
+#: inc/metabox.php:153
+msgid "Display page excerpt as header cover description."
+msgstr "Приказати одломак странице као опис корице заглавља."
+
+#: inc/metabox.php:147
+msgid "Display featured image as header cover."
+msgstr "Приказати издвојену слику као корицу заглавља."
+
+#: inc/metabox.php:141
+msgid "Hide page title area."
+msgstr "Сакриј наслов простора странице."
+
+#: inc/metabox.php:136
+msgid "Hide header."
+msgstr "Сакриј заглавље."
+
+#: inc/metabox.php:159
+msgid "Hide breadcrumb."
+msgstr "Сакриј \"breadcrumb\"."
+
+#: inc/customizer.php:391
+msgid "Only set if display site tagline."
+msgstr "Поставити само ако је приказан поднаслов сајта."
+
+#: inc/customizer.php:389
+msgid "Site Tagline Color"
+msgstr "Боја поднаслова сајта"
+
+#. Template Name of the plugin/theme
+msgid "Full Width - Contained Content"
+msgstr "Пуна ширина - Садржан садржај"
+
+#. Template Name of the plugin/theme
+msgid "Full Width - Stretched Content"
+msgstr "Пуна ширина - Раширен садржај"
+
+#: inc/sanitize.php:240
+msgid "Upgrade to %1s to unlock this feature."
+msgstr "Надоградити на %1s како бисте откључали ову особину."
+
+#: inc/metabox.php:38
+msgid "Page Settings"
+msgstr "Подешавања странице"
+
+#: inc/dashboard.php:718
+msgid "Get OnePress Plus now!"
+msgstr "Набавите OnePress Plus сада!"
+
+#: inc/dashboard.php:364
+msgid "Free vs PLUS"
+msgstr "Бесплатно vs PLUS"
+
+#: inc/dashboard.php:362
+msgid "Recommended Actions"
+msgstr "Препоручене акције"
+
+#: inc/customizer.php:3640
+msgid "OnePress Plus Available! Take a look"
+msgstr "OnePress Plus је доступан! Погледајте"
+
+#: inc/customizer.php:3630
+msgid "<h4 class=\"customizer-group-heading-message\">Drag &amp; Drop Section Orders</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the frontpage SECTIONS ORDER!</p><h4 class=\"customizer-group-heading-message\">Advanced Section Styling</h4><p class=\"customizer-group-heading-message\">Check out the <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ...</p>"
+msgstr "<h4 class=\"customizer-group-heading-message\">Повуци &amp; Пусти Одељак Наруџбине</h4><p class=\"customizer-group-heading-message\">Провери<a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање за потпуну контролу над почетном страницом Одељка Нарудџбина</p><h4 class=\"customizer-group-heading-message\">Advandced Section Styling</h4><p class=\"customizer-group-heading-message\">Провери <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање за потпуну контролу секције за стилизовање која укључује боју позадине, слике, видео записа, паралакс ефекта, прилагођених стилова и др.</p>"
+
+#: inc/customizer.php:3314
+msgid "Ascending"
+msgstr "Узлазни"
+
+#: inc/customizer.php:3313
+msgid "Descending"
+msgstr "Силазни"
+
+#: inc/customizer.php:3309
+msgid "Order"
+msgstr "Наруџбина"
+
+#: inc/customizer.php:3294
+msgid "Random order"
+msgstr "Произвољна наруџбина"
+
+#: inc/customizer.php:3293
+msgid "Order by Page Order"
+msgstr "Наруџбина са странице наруџбина"
+
+#: inc/customizer.php:3292
+msgid "Comment Count"
+msgstr "Коментарисати бројач"
+
+#: inc/customizer.php:3291
+msgid "Date"
+msgstr "Датум"
+
+#: inc/customizer.php:3289
+msgid "Author"
+msgstr "Аутор"
+
+#: inc/customizer.php:3288
+msgid "ID"
+msgstr "ID"
+
+#: inc/customizer.php:3287
+msgid "Default"
+msgstr "Подразумевано"
+
+#: inc/customizer.php:3283
+msgid "Order By"
+msgstr "Поређај по"
+
+#: inc/customizer.php:3267
+msgid "Category to show"
+msgstr "Приказана категорија"
+
+#: inc/customizer.php:2799
+msgid "1x"
+msgstr "1x"
+
+#: inc/customizer.php:2798
+msgid "2x"
+msgstr "2x"
+
+#: inc/customizer.php:2797
+msgid "3x"
+msgstr "3x"
+
+#: inc/customizer.php:2796
+msgid "4x"
+msgstr "4x"
+
+#: inc/customizer.php:2795
+msgid "5x"
+msgstr "5x"
+
+#: inc/customizer.php:2790
+msgid "Icon Size"
+msgstr "Величина иконице"
+
+#: inc/customizer.php:2288
+msgid "Layout Settings"
+msgstr "Распоред подешавања"
+
+#: inc/customizer.php:1568
+msgid "Rotating Text Background"
+msgstr "Ротирајући текст позадине"
+
+#: inc/customizer.php:1553
+msgid "Rotating Text Color"
+msgstr "Боја ротирајућег текста"
+
+#: inc/customizer.php:1529
+msgid "We are <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+msgstr "Ми смо <span class=\"js-rotating\">OnePress | One Page | Responsive | Perfection</span>"
+
+#: inc/customizer.php:1486
+msgid "Want to add <strong>background video</strong> for hero section? Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> version."
+msgstr "Желиш да додаш <strong>видео запис као позадину</strong> за hero секцију ? Надогради на <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> издање."
+
+#: inc/customizer.php:1255
+msgid "Disable Preload Icon"
+msgstr "Онемогући иконицу за Preload"
+
+#: inc/customizer.php:1080
+msgid "Footer Copyright"
+msgstr "Copyright подножја"
+
+#: inc/customizer.php:1067 inc/customizer.php:1134
+msgid "Link Hover Color"
+msgstr "Боја Hover везе"
+
+#: inc/customizer.php:1051 inc/customizer.php:1121
+msgid "Link Color"
+msgstr "Боја везе"
+
+#: inc/customizer.php:1034
+msgid "Widget Title Color"
+msgstr "Боја назива виџета"
+
+#: inc/customizer.php:985
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr "Унеси int бројеве и њихова сума мора бити мања или једнака броју 12, одвојене \"+\""
+
+#: inc/customizer.php:983
+msgid "Custom footer %s columns width"
+msgstr "Прилагођене ширине  %s колона подножја"
+
+#: inc/customizer.php:983
+msgid "Custom footer 1 column width"
+msgstr "Прилагођена ширина колона 1 подножја"
+
+#: inc/customizer.php:959
+msgid "Disable footer widgets"
+msgstr "Онемогући видџете у подножју"
+
+#: inc/customizer.php:953
+msgid "Number footer columns to display."
+msgstr "Приказ броја колона у подножју."
+
+#: inc/customizer.php:933
+msgid "Footer Widgets"
+msgstr "Виџети у подножју"
+
+#: inc/customizer.php:918 inc/customizer.php:1001 inc/customizer.php:1108
+msgid "Text Color"
+msgstr "Боја текста"
+
+#: inc/customizer.php:822 inc/customizer.php:2334 inc/customizer.php:2530
+#: inc/customizer.php:2743 inc/customizer.php:2931 inc/customizer.php:3109
+msgid "Upgrade to <a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> to be able to add more items and unlock other premium features!"
+msgstr "Ажурирај<a target=\"_blank\" href=\"https://www.famethemes.com/plugins/onepress-plus/?utm_source=theme_customizer&utm_medium=text_link&utm_campaign=onepress_customizer#get-started\">OnePress Plus</a> како би се омогућила опција додавања више ставки и откључале додатне премиум фунцкионалности!"
+
+#: inc/customizer.php:750
+msgid "Footer Socials"
+msgstr "Друштвене мреже у подножју"
+
+#: inc/customizer.php:696
+msgid "Right"
+msgstr "Десно"
+
+#: inc/customizer.php:695
+msgid "Left"
+msgstr "Лево"
+
+#: inc/customizer.php:694
+msgid "Center"
+msgstr "Средиште"
+
+#: inc/customizer.php:690
+msgid "Content Align"
+msgstr "Поравнање садржаја"
+
+#: inc/customizer.php:657
+msgid "Color"
+msgstr "Боја"
+
+#: inc/customizer.php:641
+msgid "The page cover padding bottom in percent (%)."
+msgstr "Покривање дна корице странице изражене у процентима (%)."
+
+#: inc/customizer.php:640
+msgid "Padding Bottom"
+msgstr "Padding Bottom"
+
+#: inc/customizer.php:626
+msgid "The page cover padding top in percent (%)."
+msgstr "Покривање врха корице странице изражене у процентима (%). "
+
+#: inc/customizer.php:625
+msgid "Padding Top"
+msgstr "Padding Top"
+
+#: inc/customizer.php:612
+msgid "Check this box to disable the page title bar on all pages."
+msgstr "Означите ово поље како бисте онемогућили насловну траку на свим страницама."
+
+#: inc/customizer.php:610
+msgid "Disable Page Title bar?"
+msgstr "Онемогућити насловну траку странице?"
+
+#: inc/customizer.php:594
+msgid "Page Title Area"
+msgstr "Насловни простор странице"
+
+#: inc/customizer.php:584
+msgid "Padding left and right for Navigation items (pixels)."
+msgstr "Padding лево и десно за ставке кретања (пискели)."
+
+#: inc/customizer.php:583
+msgid "Menu Item Padding"
+msgstr "Padding ставки изборника "
+
+#: inc/customizer.php:569
+msgid "Navigation"
+msgstr "Кретање"
+
+#: inc/customizer.php:557
+msgid "Transparent Site Tagline Color"
+msgstr "Боја транспарентног тagline-а сајта "
+
+#: inc/customizer.php:541
+msgid "Transparent Site Title Color"
+msgstr "Боја транспарентног тagline-а сајта"
+
+#: inc/customizer.php:508
+msgid "Transparent Retina Logo"
+msgstr "Транспарентни ретина лого"
+
+#: inc/customizer.php:490 inc/customizer.php:509
+msgid "Only apply when transparent header option is checked."
+msgstr "Применити само у случају када је означена опција транспаретног заглавља."
+
+#: inc/customizer.php:488
+msgid "Transparent Logo"
+msgstr "Транспарентан лого"
+
+#: inc/customizer.php:294
+msgid "Below Hero Slider"
+msgstr "Слајдер испод Hero-а"
+
+#: inc/customizer.php:293
+msgid "Top"
+msgstr "Горе"
+
+#: inc/customizer.php:290
+msgid "Header Position"
+msgstr "Позиција заглавља"
+
+#: inc/customizer.php:272
+msgid "Contained"
+msgstr "Садржано"
+
+#: inc/customizer.php:268
+msgid "Header Width"
+msgstr "Ширина заглавља"
+
+#: inc/customizer.php:218
+msgid "Check this if you want to disable default google fonts in theme."
+msgstr "Означите ово ако желите да онемогућите подразумеване гугл фонтове у теми."
+
+#: inc/customizer.php:216
+msgid "Disable Google Fonts"
+msgstr "Онемогући гугл фонтове"
+
+#: inc/customizer.php:119
+msgid "Logo Height In Pixel"
+msgstr "Висина логоа у пикселима"
+
+#: inc/customizer.php:101
+msgid "Retina Logo"
+msgstr "Ретина лого"
+
+#: inc/customizer-controls.php:632
+msgid "All"
+msgstr "Сви"
+
+#: functions.php:165
+msgid "Footer %s"
+msgstr "Подножје %s"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Мисао о &ldquo;%2$s&rdquo;"
+
+#: inc/customizer.php:741
+msgid "Check this box to show single post meta such as post date, author, category,..."
+msgstr "Означите ово поље за приказ мета података за један чланак као што су датум чланка, аутор, категорија,..."
+
+#: inc/customizer.php:739
+msgid "Show single post meta"
+msgstr "Прикажи мету за један чланак"
+
+#: inc/customizer.php:726
+msgid "Check this box to show post thumbnail on single post."
+msgstr "Означите ово поље како бисте приказали thumbnail чланка за један чланак."
+
+#: inc/customizer.php:724
+msgid "Show single post thumbnail"
+msgstr "Прикажи thumbnail за један чланак"
+
+#: inc/customizer.php:709
+msgid "Single Post"
+msgstr "Један чланак"
+
+#: inc/customizer.php:1378
+msgid "The amount of time in between slides, expressed as the number of milliseconds."
+msgstr "Количина времена између слајдова, изражена као број у милисекундама."
+
+#: inc/customizer.php:1377
+msgid "Slider duration speed"
+msgstr "Брзина трајања слајдера"
+
+#: inc/customizer.php:1361
+msgid "This is the speed at which the image will fade in. Integers in milliseconds are accepted."
+msgstr "Ово је брзина којом ће се слика убрзати. Интеџери у милисекундама су прихваћени."
+
+#: inc/customizer.php:1360
+msgid "Slider animation speed"
+msgstr "Брзина анимације слајдера"
+
+#: inc/customizer.php:1342
+msgid "Text animation speed"
+msgstr "Брзина анимације текста"
+
+#: inc/dashboard.php:416
+msgid "Child theme uses it's own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "Child тема користи сопствена подешавања имена теме, желите ли да копирате подешавања из parent теме у child тему?"
+
+#: inc/customizer.php:3697
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:3693
+msgid "Search"
+msgstr "Претрага"
+
+#: inc/dashboard.php:796
+msgid "Are you sure want to copy ?"
+msgstr "Да ли сте сигурни да желите да копирате?"
+
+#: inc/dashboard.php:455
+msgid "Recommend Plugins"
+msgstr "Препоручени додаци"
+
+#: inc/dashboard.php:435
+msgid "Copy now"
+msgstr "Копирај сад"
+
+#: inc/dashboard.php:427
+msgid "To Theme"
+msgstr "До теме"
+
+#: inc/dashboard.php:421
+msgid "From Theme"
+msgstr "Од теме"
+
+#: inc/dashboard.php:414
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Користите %1$s тему, то је child тема OnePress"
+
+#: inc/dashboard.php:269
+msgid "Details"
+msgstr "Детаљи"
+
+#: inc/dashboard.php:197
+msgid "Import Demo Data"
+msgstr "Увези Demo податке"
+
+#: inc/dashboard.php:197
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Уштедите време тако што ћете импортовати наше демо податке, ваш веб сајт ће бити спреман за коришћење у пар минута. %s"
+
+#: inc/customizer.php:2170
+msgid "Read More Text"
+msgstr "Текст прочитај више"
+
+#: inc/customizer.php:2165 section-parts/section-gallery.php:38
+msgid "View More"
+msgstr "Прочитај више"
+
+#: inc/customizer.php:2155
+msgid "Read More Link"
+msgstr "Веза прочитај више"
+
+#: inc/customizer.php:166
+msgid "No sidebar"
+msgstr "Без бочне траке"
+
+#: inc/customizer.php:165
+msgid "Left sidebar"
+msgstr "Лева бочна трака"
+
+#: inc/customizer.php:164
+msgid "Right sidebar"
+msgstr "Десна бочна трака"
+
+#: inc/customizer.php:161
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Распоред сајта, примени за све странице, изузми почетну страницу и прилагођене шаблоне страница."
+
+#: inc/customizer.php:160
+msgid "Site Layout"
+msgstr "Распоред сајта"
+
+#: functions.php:106
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes Demo Importer"
+
+#: functions.php:154
+msgid "WooCommerce Sidebar"
+msgstr "Бочна трака за Вукомерц"
+
+#: inc/customizer.php:2296 inc/customizer.php:2708
+msgid "1 Column"
+msgstr "1 Колона"
+
+#: inc/customizer.php:2139
+msgid "Enable Lightbox"
+msgstr "Омогући Lightbox"
+
+#: inc/customizer.php:2125
+msgid "Number items"
+msgstr "Број ставки"
+
+#: inc/customizer.php:2100
+msgid "Layout columns"
+msgstr "Распоред колона"
+
+#: inc/customizer.php:2084
+msgid "Row Height"
+msgstr "Висина реда"
+
+#: inc/customizer.php:2068
+msgid "Item Spacing"
+msgstr "Размак између ставки"
+
+#: inc/customizer.php:2054
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/customizer.php:2053
+msgid "Justified"
+msgstr "Justified"
+
+#: inc/customizer.php:2052
+msgid "Slider"
+msgstr "Слајдер"
+
+#: inc/customizer.php:2051
+msgid "Carousel"
+msgstr "Carousel"
+
+#: inc/customizer.php:2050
+msgid "Grid"
+msgstr "Мрежа"
+
+#: inc/customizer.php:2045
+msgid "Display"
+msgstr "Приказ"
+
+#: inc/customizer.php:2030
+msgid "Default, inside container"
+msgstr "Подразумеван, унутрашњи контејнер"
+
+#: inc/customizer.php:950 inc/customizer.php:2025
+msgid "Layout"
+msgstr "Распоред"
+
+#: inc/customizer.php:2011
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "Изаберите страницу која садржи [gallery] shortcode."
+
+#: inc/customizer.php:2006
+msgid "Select Gallery Page"
+msgstr "Означи страницу Галерија"
+
+#: inc/customizer.php:1989
+msgid "Page"
+msgstr "Страница"
+
+#: inc/customizer.php:1984
+msgid "Select Gallery Source"
+msgstr "Означи извор Галерије"
+
+#: inc/customizer.php:1923 section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Галерија"
+
+#: inc/customizer.php:1908 section-parts/section-gallery.php:2
+msgid "gallery"
+msgstr "галерија"
+
+#: inc/customizer.php:1873
+msgid "Section: Gallery"
+msgstr "Одељак: Галерија"
+
+#: inc/customizer.php:345
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Скролуј на горе када се кликне лого сајта или наслов сајта, примени само на почетну страницу."
+
+#: inc/dashboard.php:776
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes Demo Importer"
+
+#: inc/dashboard.php:775
+msgid "Hey."
+msgstr "Здраво."
+
+#: inc/dashboard.php:773
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s прво је потребно инсталирати и активирати %2$s додатак."
+
+#: inc/dashboard.php:249 inc/dashboard.php:757
+msgid "Active Now"
+msgstr "Укључен сад"
+
+#: inc/dashboard.php:227 inc/dashboard.php:735
+msgid "Install Now"
+msgstr "Поставити сада"
+
+#: inc/dashboard.php:366
+msgid "One Click Demo Import"
+msgstr "Увести One Click Demo"
+
+#: inc/customizer.php:1694
+msgid "Button #2 style"
+msgstr "Стил за дугме #2"
+
+#: inc/customizer.php:3341
+msgid "More News Button Text"
+msgstr "Текст за дугме више вести"
+
+#: inc/customizer.php:3330
+msgid "It should be your blog page link."
+msgstr "Ово би требало бити ваша веза блог странице."
+
+#: inc/customizer.php:1639 inc/customizer.php:1705
+msgid "Danger"
+msgstr "Опасност"
+
+#: inc/customizer.php:1638 inc/customizer.php:1704
+msgid "Warning"
+msgstr "Упозорење"
+
+#: inc/customizer.php:1637 inc/customizer.php:1703
+msgid "Info"
+msgstr "Информација"
+
+#: inc/customizer.php:1636 inc/customizer.php:1702
+msgid "Success"
+msgstr "Успех"
+
+#: inc/customizer.php:1635 inc/customizer.php:1701
+msgid "Primary"
+msgstr "Примарно"
+
+#: inc/customizer.php:1634 inc/customizer.php:1700
+msgid "Button"
+msgstr "Дугме"
+
+#: inc/customizer.php:1633 inc/customizer.php:1699
+msgid "Button Secondary"
+msgstr "Секундарно дугме"
+
+#: inc/customizer.php:1632 inc/customizer.php:1698
+msgid "Button Primary"
+msgstr "Примарно дугме"
+
+#: inc/customizer.php:1628
+msgid "Button #1 style"
+msgstr "Дугме #1 стил"
+
+#: inc/customizer.php:1287
+msgid "The hero content padding bottom in percent (%)."
+msgstr "Приказ садржаја hero padding bottom у процентима (%)."
+
+#: inc/customizer.php:1271
+msgid "The hero content padding top in percent (%)."
+msgstr "Приказ садржаја hero content padding top у процентима (%)."
+
+#: inc/customizer.php:1343
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "Кашњење између промене сваке фразе у милисекундама."
+
+#: inc/customizer.php:891
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "Образац билетена користи MailChimp, молимо пратите <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">овај водич</a> како бисте пронашли MailChimp Action URL. Пример <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customizer.php:81
+msgid "Hide site tagline"
+msgstr "Сакриј поднаслов сајта"
+
+#: inc/customizer.php:66
+msgid "Hide site title"
+msgstr "Сакриј назив сајта"
+
+#: inc/customizer.php:2541 inc/customizer.php:2750
+msgid "image"
+msgstr "Слика"
+
+#: inc/customizer.php:1323
+msgid "Text animation"
+msgstr "Анимација текста"
+
+#: inc/dashboard.php:163
+msgid "OnePress Theme %s"
+msgstr "OnePress тема %s"
+
+#: inc/dashboard.php:161
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s потребна акција"
+msgstr[1] "%1$s потребна акција"
+msgstr[2] "%1$s потребна акција"
+
+#: inc/customizer.php:1148 inc/customizer.php:1166
+msgid "Custom CSS"
+msgstr "Прилагођени CSS"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Зашто одабрати нас"
+
+#: inc/customizer.php:2700
+msgid "Services Layout Settings"
+msgstr "Распоред подешавања услуга"
+
+#: inc/customizer.php:2559 inc/customizer.php:3117
+msgid "Custom Link"
+msgstr "Прилагођенa везa"
+
+#: inc/customizer.php:2555
+msgid "Description"
+msgstr "Опис"
+
+#: inc/customizer.php:2524
+msgid "Features content"
+msgstr "Садржај особина"
+
+#: inc/customizer.php:2488
+msgid "Features Layout Setting"
+msgstr "Подешавања особина распореда"
+
+#: inc/customizer.php:2435 section-parts/section-features.php:4
+msgid "Features"
+msgstr "Особине"
+
+#: inc/customizer.php:2420 section-parts/section-features.php:2
+msgid "features"
+msgstr "особине"
+
+#: inc/customizer.php:2385
+msgid "Section: Features"
+msgstr "Одељак: Особине"
+
+#: inc/customizer.php:1960 inc/customizer.php:2271 inc/customizer.php:2472
+#: inc/customizer.php:2683 inc/customizer.php:2896 inc/customizer.php:3052
+#: inc/customizer.php:3222 inc/customizer.php:3440
+msgid "Section Description"
+msgstr "Одељак Oпис"
+
+#: inc/customizer.php:1756 inc/customizer.php:2550 inc/customizer.php:2759
+msgid "Image"
+msgstr "Слика"
+
+#: inc/customizer.php:1738
+msgid "Content Text"
+msgstr "Текст садржаја"
+
+#: inc/customizer.php:1518
+msgid "Layout 2"
+msgstr "Распоред 2"
+
+#: inc/customizer.php:1517
+msgid "Layout 1"
+msgstr "Распоред 1"
+
+#: inc/customizer.php:1512
+msgid "Display Layout"
+msgstr "Прикажи распоред"
+
+#: inc/customizer.php:833
+msgid "URL"
+msgstr "УРЛ"
+
+#: inc/customizer.php:829 inc/customizer.php:2540 inc/customizer.php:2545
+#: inc/customizer.php:2749 inc/customizer.php:2754
+msgid "Icon"
+msgstr "Иконица"
+
+#: inc/customizer.php:825
+msgid "Social network"
+msgstr "Друштвена мрежа"
+
+#: inc/customizer.php:816
+msgid "Socials"
+msgstr "Друштвене"
+
+#: inc/customizer.php:471
+msgid "Apply for front page template only."
+msgstr "Применити само за шаблон почетне странице"
+
+#: inc/customizer.php:469
+msgid "Header Transparent"
+msgstr "Транспарентно заглавље"
+
+#: inc/template-tags.php:1628
+msgid "Subscribe"
+msgstr "Претплати се"
+
+#: inc/template-tags.php:1627
+msgid "Enter your e-mail address"
+msgstr "Унесите вашу е-мејл адресу"
+
+#: inc/dashboard.php:392
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Подршка за %s Вордпрес тему спроводи се кроз FameThemes тикет систем подршке."
+
+#: inc/dashboard.php:386
+msgid "OnePress Documentation"
+msgstr "OnePress Документација "
+
+#: inc/customizer.php:2295 inc/customizer.php:2495 inc/customizer.php:2707
+#: inc/customizer.php:3075
+msgid "2 Columns"
+msgstr "2 Колоне"
+
+#: inc/customizer.php:2294 inc/customizer.php:2494 inc/customizer.php:2706
+#: inc/customizer.php:3074
+msgid "3 Columns"
+msgstr "3 Колоне"
+
+#: inc/customizer.php:2293 inc/customizer.php:2493 inc/customizer.php:2705
+#: inc/customizer.php:3073
+msgid "4 Columns"
+msgstr "4 Колоне"
+
+#: inc/customizer.php:3068
+msgid "Team Layout Settings"
+msgstr "Распоред подешавања за тим"
+
+#: inc/customizer.php:2371 inc/customizer.php:2584
+msgid "Page Excerpt"
+msgstr "Одломак стране"
+
+#: inc/customizer.php:2370 inc/customizer.php:2583
+msgid "Full Page Content"
+msgstr "Пун садржај за страницу"
+
+#: inc/customizer.php:2365 inc/customizer.php:2578
+msgid "Item content source"
+msgstr "Озвор ставки"
+
+#: inc/customizer.php:2328
+msgid "About content page"
+msgstr "Садржај за страницу About"
+
+#: inc/customizer.php:1468
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Омогучи паралакс ефекат (применити само за прву слику позадине)"
+
+#: inc/customizer.php:330
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Ако користите лого и лого је превисок, означите ово поље како би се аутоматски прилагодио изборнику."
+
+#: inc/customizer.php:328
+msgid "Center vertical align for menu"
+msgstr "Вертикално-центрирано поравнање за изборник"
+
+#: inc/customizer.php:450
+msgid "Responsive Menu Button Color"
+msgstr "Боја одговарајућег дугмета за изборник"
+
+#: inc/customizer.php:435
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Боја веза изборника Hover/Active BG"
+
+#: inc/customizer.php:419
+msgid "Menu Link Hover/Active Color"
+msgstr "Боја везе изборника Hover/Active Color"
+
+#: inc/customizer.php:404
+msgid "Menu Link Color"
+msgstr "Боја везе изборника"
+
+#: inc/customizer.php:377
+msgid "Only set if you don't use an image logo."
+msgstr "Поставити само ако не користите слику логоа."
+
+#: inc/customizer.php:375
+msgid "Site Title Color"
+msgstr "Боја наслова веб места"
+
+#: inc/customizer.php:359 inc/customizer.php:1017
+msgid "Background Color"
+msgstr "Позадинска боја"
+
+#: inc/customizer.php:250
+msgid "Header"
+msgstr "Заглавље"
+
+#: inc/customizer.php:237
+msgid "Primary Color"
+msgstr "Примарна боја"
+
+#: inc/customizer.php:228
+msgid "Site Colors"
+msgstr "Боје сајта"
+
+#: inc/customizer.php:3112
+msgid "User media"
+msgstr "Кориснички медији"
+
+#: inc/customizer.php:1861
+msgid "Background image"
+msgstr "Слика у позадини"
+
+#: inc/customizer.php:1846
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Залепи URL Youtube или Vimeo-а овде"
+
+#: inc/customizer.php:1844
+msgid "Video url"
+msgstr "URL видео записа"
+
+#: inc/customizer.php:1829
+msgid "Section heading"
+msgstr "Одељак наслова"
+
+#: inc/customizer.php:1225 inc/customizer.php:1813 inc/customizer.php:1915
+#: inc/customizer.php:2226 inc/customizer.php:2427 inc/customizer.php:2851
+#: inc/customizer.php:3177 inc/customizer.php:3395
+msgid "The section id, we will use this for link anchor."
+msgstr "ID oдељка, који ћемо користити као сидро везе."
+
+#: inc/customizer.php:1771
+msgid "Section: Video Lightbox"
+msgstr "Одељак: Lightbox видео записа"
+
+#: inc/dashboard.php:518
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Урааа! Нема више неопходних активности."
+
+#: inc/dashboard.php:508
+msgid "Change homepage page template"
+msgstr "Изменити шаблон почетне странице"
+
+#: inc/dashboard.php:494
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Како бисте променили садржај одељка на почетној страници, потребно је да поставите шаблон \"Frontpage\" као почетну страницу.  "
+
+#: inc/dashboard.php:491
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Поставите шаблон почетне странице на \"Frontpage\"."
+
+#: inc/dashboard.php:477 inc/dashboard.php:501
+msgid "Setup front page displays"
+msgstr "Подешавање приказа почетне стране"
+
+#: inc/dashboard.php:474
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Како бисте омогућили приказ једне странице за ваш веб сајт, молимо вас отворите Customize -&gt; Static Front Page и промените \"Front page displays\" на \"A static page\"."
+
+#: inc/dashboard.php:472
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Изменити \"Front page displays\" на \"A static page\""
+
+#: inc/dashboard.php:465 inc/dashboard.php:484
+msgid "Dismiss"
+msgstr "Одбаци"
+
+#: inc/dashboard.php:354
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Добро дошли на OnePress - Издање %1s"
+
+#: inc/dashboard.php:188
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Доброд ошли! Хвала вам што сте изабрали %1$s! Како бисте најбоље искористили све шта наша тема нуди, молимо вас посетите нашу <a href=\"%2$s\">страницу добродошлице</a>"
+
+#: inc/dashboard.php:165
+msgid "OnePress Theme"
+msgstr "OnePress тема"
+
+#: inc/dashboard.php:168
+msgid "OnePress Dashboard"
+msgstr "OnePress контролна табла"
+
+#: inc/customizer.php:675 inc/customizer.php:1449
+msgid "Background Overlay Color"
+msgstr "Боја позадинског прекривача"
+
+#: inc/customizer.php:3614
+msgid "Section Order & Styling"
+msgstr "Одељак Наруџбина и стилизовање"
+
+#: inc/customizer.php:312
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Означите ово поље како бисте онемогућили лепљиво заглавље приликом скрола."
+
+#: inc/customizer.php:310
+msgid "Disable Sticky Header?"
+msgstr "Онемогући лепљиво заглавље"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Лева бочна трака"
+
+#: inc/customizer.php:271 inc/customizer.php:2031
+msgid "Full Width"
+msgstr "Пуна ширина"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Почетна страница"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање помоћи."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жао нам је, али ништа не одговара вашем упиту. Молимо вас да покушате поново са другим кључним речима."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Није пронађено"
+
+#: template-parts/content-list.php:38 template-parts/content-page.php:21
+#: template-parts/content-single.php:35 template-parts/content.php:39
+msgid "Pages:"
+msgstr "Странице:"
+
+#: section-parts/section-hero.php:88
+msgid "#services"
+msgstr "#services"
+
+#: section-parts/section-contact.php:48
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "Можете инсталирати %1$s додатак и отићи на Customizer &rarr; Одељак: Контакт &rarr; Одељак Садржај како бисте приказали образац за контакт"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#: inc/template-tags.php:467
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар чека преглед."
+
+#: inc/template-tags.php:462
+msgid "Edit"
+msgstr "Уреди"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:461
+msgid "Reply"
+msgstr "Одговор"
+
+#: inc/template-tags.php:453
+msgid "Post author"
+msgstr "Аутор чланка"
+
+#: inc/template-tags.php:434
+msgid "(Edit)"
+msgstr "(Уреди)"
+
+#: inc/template-tags.php:434
+msgid "Pingback:"
+msgstr "Повратни пинг:"
+
+#: inc/template-tags.php:364
+msgid "% Comments"
+msgstr "% Коментара"
+
+#: inc/template-tags.php:364
+msgid "1 Comment"
+msgstr "1 Коментар"
+
+#: inc/template-tags.php:364
+msgid "Leave a comment"
+msgstr "Оставите коментар"
+
+#: inc/template-tags.php:358
+msgid "Tagged %1$s"
+msgstr "Означено %1$s"
+
+#: inc/template-tags.php:352
+msgid "Posted in %1$s"
+msgstr "Постављено у %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:350 inc/template-tags.php:356
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:332
+msgctxt "post author"
+msgid "by %s"
+msgstr "од %s"
+
+#: inc/template-tags.php:327
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "објављено %s"
+
+#: inc/dashboard.php:391
+msgid "Having Trouble, Need Support?"
+msgstr "Имате проблема, потребна вам је подршка?"
+
+#: inc/dashboard.php:384
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Да ли вам је отребна помоћ приликом подешавања и конфигурације %s? Погледајте наше инструкције у документацији."
+
+#: inc/dashboard.php:383
+msgid "Theme Documentation"
+msgstr "Документација теме"
+
+#: inc/dashboard.php:379
+msgid "Start Customize"
+msgstr "Започни прилагођавање"
+
+#: inc/dashboard.php:377
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s подржава темин прилагођавач за сва подешавања у теми. Кликните на \"Customize\" како бисте започели прилагођавање вашег сајта."
+
+#: inc/dashboard.php:376
+msgid "Theme Customizer"
+msgstr "Прилагођавач теме"
+
+#: inc/dashboard.php:355
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress је креативна и флексибилна Вордпрес One Page тема погодна за бизнис, портфолио, дигиталне агенције, изложбу производа, веб странице фриленсера."
+
+#: inc/customizer.php:3595
+msgid "Fax"
+msgstr "Факс"
+
+#: inc/customizer.php:3580
+msgid "Email"
+msgstr "Електронска пошта"
+
+#: inc/customizer.php:3565
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/customizer.php:3550
+msgid "Address"
+msgstr "Адреса"
+
+#: inc/customizer.php:3535
+msgid "Contact Box Title"
+msgstr "Наслов контактне кутије"
+
+#: inc/customizer.php:3511
+msgid "Contact Text"
+msgstr "Текст за контакт"
+
+#: inc/customizer.php:3496
+msgid "Check this box to hide contact form."
+msgstr "Означити ово поље за скривање контакт обрасца."
+
+#: inc/customizer.php:3494
+msgid "Hide contact form completely."
+msgstr "Комплетно сакријте образац за контакт."
+
+#: inc/customizer.php:3478
+msgid "Contact Form Shortcode."
+msgstr "Shortcode образац за контакт"
+
+#: inc/customizer.php:3403 section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Ступите у контакт"
+
+#: inc/customizer.php:3388 section-parts/section-contact.php:2
+msgid "contact"
+msgstr "контакт"
+
+#: inc/customizer.php:3353
+msgid "Section: Contact"
+msgstr "Одељак: Контакт"
+
+#: inc/customizer.php:3336 section-parts/section-news.php:8
+msgid "Read Our Blog"
+msgstr "Читајте наш блог"
+
+#: inc/customizer.php:3328
+msgid "More News button link"
+msgstr "Веза дугмета за Више вести"
+
+#: inc/customizer.php:3250
+msgid "Number of post to show"
+msgstr "Број чланака за приказ"
+
+#: inc/customizer.php:3185 section-parts/section-news.php:4
+msgid "Latest News"
+msgstr "Последње вести"
+
+#: inc/customizer.php:3170 section-parts/section-news.php:2
+msgid "news"
+msgstr "вести"
+
+#: inc/customizer.php:3135
+msgid "Section: News"
+msgstr "Одељак: Вести"
+
+#: inc/customizer.php:3103
+msgid "Team members"
+msgstr "Чланови тима"
+
+#: inc/customizer.php:3015 section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "Наш Тим"
+
+#: inc/customizer.php:3000 section-parts/section-team.php:2
+msgid "team"
+msgstr "тим"
+
+#: inc/customizer.php:2966
+msgid "Section: Team"
+msgstr "Одељак: Тим"
+
+#: inc/customizer.php:2950
+msgid "After number"
+msgstr "Број после"
+
+#: inc/customizer.php:2945
+msgid "Before number"
+msgstr "Број пре"
+
+#: inc/customizer.php:2940
+msgid "Number"
+msgstr "Број"
+
+#: inc/customizer.php:2937
+msgid "Your counter label"
+msgstr "Етикета бројача"
+
+#: inc/customizer.php:2533 inc/customizer.php:2934 inc/customizer.php:3290
+msgid "Title"
+msgstr "Назив"
+
+#: inc/customizer.php:2925
+msgid "Counter content"
+msgstr "Садржај бројача"
+
+#: inc/customizer.php:2859 section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Наше бројке"
+
+#: inc/customizer.php:2844 section-parts/section-counter.php:2
+msgid "counter"
+msgstr "бројач"
+
+#: inc/customizer.php:2810
+msgid "Section: Counter"
+msgstr "Одељак: Бројач"
+
+#: inc/customizer.php:2537 inc/customizer.php:2746
+msgid "Custom icon"
+msgstr "Прилагођена иконица"
+
+#: inc/customizer.php:2737
+msgid "Service content"
+msgstr "Садржај услуга"
+
+#: inc/customizer.php:2646 section-parts/section-hero.php:87
+#: section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Наше услуге"
+
+#: inc/customizer.php:2631 section-parts/section-services.php:2
+msgid "services"
+msgstr "услуге"
+
+#: inc/customizer.php:2596
+msgid "Section: Services"
+msgstr "Одељак: Сервиси"
+
+#: inc/customizer.php:2346 inc/customizer.php:2770
+msgid "Link to single page"
+msgstr "Веза до јединствене странице"
+
+#: inc/customizer.php:2342
+msgid "Hide item title"
+msgstr "Сакриј наслов ставке"
+
+#: inc/customizer.php:2337 inc/customizer.php:2765
+msgid "Select a page"
+msgstr "Означи страницу"
+
+#: inc/customizer.php:820 inc/customizer.php:2332 inc/customizer.php:2528
+#: inc/customizer.php:2741 inc/customizer.php:2929 inc/customizer.php:3107
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customizer.php:1969 inc/customizer.php:2307 inc/customizer.php:2504
+#: inc/customizer.php:2717 inc/customizer.php:2905 inc/customizer.php:3083
+#: inc/customizer.php:3450
+msgid "Section Content"
+msgstr "Одељак садржај"
+
+#: inc/customizer.php:1943 inc/customizer.php:2254 inc/customizer.php:2455
+#: inc/customizer.php:2666 inc/customizer.php:2879 inc/customizer.php:3035
+#: inc/customizer.php:3205 inc/customizer.php:3423
+msgid "Section Subtitle"
+msgstr "Одељак Поднаслов"
+
+#: inc/customizer.php:1938 inc/customizer.php:2249 inc/customizer.php:2450
+#: inc/customizer.php:2661 inc/customizer.php:2874 inc/customizer.php:3030
+#: inc/customizer.php:3200 inc/customizer.php:3418
+#: section-parts/section-about.php:5 section-parts/section-contact.php:5
+#: section-parts/section-counter.php:5 section-parts/section-gallery.php:5
+#: section-parts/section-news.php:5 section-parts/section-services.php:5
+#: section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Одељак поднаслов"
+
+#: inc/customizer.php:1928 inc/customizer.php:2239 inc/customizer.php:2440
+#: inc/customizer.php:2651 inc/customizer.php:2864 inc/customizer.php:3020
+#: inc/customizer.php:3190 inc/customizer.php:3408
+msgid "Section Title"
+msgstr "Одељак Наслов"
+
+#: inc/customizer.php:2219 section-parts/section-about.php:2
+msgid "about"
+msgstr "О"
+
+#: inc/customizer.php:1780 inc/customizer.php:1882 inc/customizer.php:2193
+#: inc/customizer.php:2394 inc/customizer.php:2605 inc/customizer.php:2819
+#: inc/customizer.php:2975 inc/customizer.php:3144 inc/customizer.php:3362
+msgid "Section Settings"
+msgstr "Одељак Подешавање"
+
+#: inc/customizer.php:2184
+msgid "Section: About"
+msgstr "Одељак: О нама"
+
+#: inc/customizer.php:1680
+msgid "Button #2 Link"
+msgstr "Веза за дугме #2"
+
+#: inc/customizer.php:1675 section-parts/section-hero.php:90
+msgid "#contact"
+msgstr "#contact"
+
+#: inc/customizer.php:1666
+msgid "Button #2 Text"
+msgstr "Текст за дугме #2"
+
+#: inc/customizer.php:1661 section-parts/section-hero.php:89
+msgid "Get Started"
+msgstr "Започните"
+
+#: inc/customizer.php:1615
+msgid "Button #1 Link"
+msgstr "Веза за дугме #1"
+
+#: inc/customizer.php:1610
+msgid "#about"
+msgstr "#about"
+
+#: inc/customizer.php:1601
+msgid "Button #1 Text"
+msgstr "Текст дугме #1"
+
+#: inc/customizer.php:1596 inc/customizer.php:2234
+#: section-parts/section-about.php:4
+msgid "About Us"
+msgstr "О нама"
+
+#: inc/customizer.php:1588
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Можете користити слајдер за ротирање текста у овом текст пољу такође."
+
+#: inc/customizer.php:1585
+msgid "Small Text"
+msgstr "Мали текст"
+
+#: inc/customizer.php:1538
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer -> Theme Options -> Section: Hero -> Hero Settings to control rotate animation."
+msgstr "Водич за ротирајући текст : Унесите ваш ротирајући текст одвојен са \"|\" у <span class=\"js-rotating\">...</span>, одите на Customizer->Site Option->Animate to control rotate animation."
+
+#: inc/customizer.php:1536
+msgid "Large Text"
+msgstr "Велики текст"
+
+#: inc/customizer.php:1496
+msgid "Hero Content Layout"
+msgstr "Hero распоред садржаја"
+
+#: inc/customizer.php:1423
+msgid "Background Image"
+msgstr "Слика за позадину"
+
+#: inc/customizer.php:904 inc/customizer.php:1094 inc/customizer.php:1418
+msgid "Background"
+msgstr "Позадина"
+
+#: inc/customizer.php:1414
+msgid "Background Images"
+msgstr "Позадинске слике"
+
+#: inc/customizer.php:1388
+msgid "Hero Background Media"
+msgstr "Hero позадина"
+
+#: inc/customizer.php:1285
+msgid "Padding Bottom:"
+msgstr "Padding Bottom:"
+
+#: inc/customizer.php:1269
+msgid "Padding Top:"
+msgstr "Padding Top:"
+
+#: inc/customizer.php:1264 inc/customizer.php:1280
+msgid "10"
+msgstr "10"
+
+#: inc/customizer.php:1241
+msgid "Check this box to make hero section full screen."
+msgstr "Изначите ово поље за постављање hero одељка у пун екран."
+
+#: inc/customizer.php:1239
+msgid "Make hero section full screen"
+msgstr "Поставите hero одељак у пун екран "
+
+#: inc/customizer.php:1223 inc/customizer.php:1811 inc/customizer.php:1913
+#: inc/customizer.php:2224 inc/customizer.php:2425 inc/customizer.php:2636
+#: inc/customizer.php:2849 inc/customizer.php:3005 inc/customizer.php:3175
+#: inc/customizer.php:3393
+msgid "Section ID:"
+msgstr "ID Одељка:"
+
+#: inc/customizer.php:1218 section-parts/section-hero.php:2
+msgid "hero"
+msgstr "hero"
+
+#: inc/customizer.php:1211 inc/customizer.php:1798 inc/customizer.php:1900
+#: inc/customizer.php:2211 inc/customizer.php:2412 inc/customizer.php:2623
+#: inc/customizer.php:2836 inc/customizer.php:2993 inc/customizer.php:3162
+#: inc/customizer.php:3380
+msgid "Check this box to hide this section."
+msgstr "Означи ово поље за скривање овог одељка."
+
+#: inc/customizer.php:1209 inc/customizer.php:1796 inc/customizer.php:1898
+#: inc/customizer.php:2209 inc/customizer.php:2410 inc/customizer.php:2621
+#: inc/customizer.php:2834 inc/customizer.php:2991 inc/customizer.php:3160
+#: inc/customizer.php:3378
+msgid "Hide this section?"
+msgstr "Сакриј овај одељак?"
+
+#: inc/customizer.php:1193
+msgid "Hero Settings"
+msgstr "Hero Подешавања"
+
+#: inc/customizer.php:1183
+msgid "Section: Hero"
+msgstr "Одељак: Hero"
+
+#: inc/customizer.php:889
+msgid "MailChimp Action URL"
+msgstr "MailChimp Action URL"
+
+#: inc/customizer.php:873
+msgid "Newsletter Form Title"
+msgstr "Образац наслова билтена"
+
+#: inc/customizer.php:859
+msgid "Check this box to hide footer newsletter form."
+msgstr "Означити ово поље да сакријете образац билтена у подножју."
+
+#: inc/customizer.php:857
+msgid "Hide Footer Newsletter?"
+msgstr "Сакриј билтен у подножју?"
+
+#: inc/customizer.php:796
+msgid "Social Footer Title"
+msgstr "Наслов друштвених мрежа у подножју"
+
+#: inc/customizer.php:782
+msgid "The social profiles specified below will be displayed in the footer of your site."
+msgstr "Означени профили друштвених мрежа у дну биће приказани у подножју вашег сајта."
+
+#: inc/customizer.php:769
+msgid "Check this box to hide footer social section."
+msgstr "Означите ово поље да сакријете одељак друштвених мрежа у подножју."
+
+#: inc/customizer.php:767
+msgid "Hide Footer Social?"
+msgstr "Сакриј друштвене мреже у подножју?"
+
+#: inc/customizer.php:201
+msgid "Check this box to hide footer back to top button."
+msgstr "Означити ово поље ако желите да сакријете дугме за враћање на врх у подножју."
+
+#: inc/customizer.php:199
+msgid "Hide footer back to top?"
+msgstr "Сакриј враћање на врх у подножју?"
+
+#: inc/customizer.php:184
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Означите ово поље ако желите да онемогућите анимације за све елементе приликом скроловања."
+
+#: inc/customizer.php:182
+msgid "Disable animation effect?"
+msgstr "Онемогућити ефекат анимације?"
+
+#: inc/customizer.php:143
+msgid "Global"
+msgstr "Глобално"
+
+#: inc/customizer.php:133
+msgid "Theme Options"
+msgstr "Могућности теме"
+
+#: inc/customizer.php:46
+msgid "Select member"
+msgstr "Означити члана"
+
+#: inc/customizer.php:35
+msgid "Select page"
+msgstr "Означити страницу"
+
+#: inc/customizer-controls.php:588
+msgid "Close"
+msgstr "Затвори"
+
+#: inc/customizer-controls.php:553
+msgid "Change"
+msgstr "Измени"
+
+#: inc/customizer-controls.php:553
+msgid "Add"
+msgstr "Додај"
+
+#: inc/customizer-controls.php:552 inc/customizer-controls.php:574
+#: inc/customizer-controls.php:586
+msgid "Remove"
+msgstr "Избаци"
+
+#: inc/customizer-controls.php:321 inc/customizer-controls.php:436
+msgid "Item"
+msgstr "Производ"
+
+#: inc/customizer-controls.php:421
+msgid "Add an item"
+msgstr "Додај ставку"
+
+#: inc/template-tags.php:229
+msgid "Menu"
+msgstr "Изборник"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#: functions.php:391
+msgid "Please contact the administrator of this site for help."
+msgstr "Молимо контактирајте администратора сајта за помоћ."
+
+#: functions.php:390
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Сви додаци инсталирани и активирани успешно. %1$s"
+
+#: functions.php:389
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Додатак није активиран. Новија верзија %s је потребна за ову тему. Молимо ажурирајте додатак."
+
+#: functions.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Није извршена акција. Додатак %1$s је већ активиран."
+
+#: functions.php:387
+msgid "The following plugin was activated successfully:"
+msgstr "Следећи додатак је активиран успешно:"
+
+#: functions.php:386
+msgid "Plugin activated successfully."
+msgstr "Додатак активиран успешно."
+
+#: functions.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Врати се на захтевани инсталер додатка"
+
+#: functions.php:384
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Започни активирање додатка"
+msgstr[1] "Започни активирање додатка"
+msgstr[2] "Започни активирање додатака"
+
+#: functions.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Започни ажурирање додатка"
+msgstr[1] "Започни ажурирање додатака"
+msgstr[2] "Започни ажурирање додатака"
+
+#: functions.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Започни инсталацију додатка"
+msgstr[1] "Започни инсталацију додатка"
+msgstr[2] "Започни инсталацију додатака"
+
+#: functions.php:381
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Жао нам је, али немате потребну дозволу да активирате %1$s додатак."
+msgstr[1] "Жао нам је, али немате потребну дозволу да активирате %1$s додатака."
+msgstr[2] "Жао нам је, али немате потребну дозволу да активирате %1$s додатака."
+
+#: functions.php:380
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следећи препоручени додатак је тренутно неактиван: %1$s."
+msgstr[1] "Следећи препоручени додаци су тренутно неактивани: %1$s."
+msgstr[2] "Следећи препоручени додаци су тренутно неактивани: %1$s."
+
+#: functions.php:379
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следећи неопходан додатак је тренутно неактиван: %1$s."
+msgstr[1] "Следећи неопходни додаци су тренутно неактивани: %1$s."
+msgstr[2] "Следећи неопходни додаци су тренутно неактивани: %1$s."
+
+#: functions.php:378
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Жао нам је, али немате потребну дозволу да ажурирате %1$s додатак."
+msgstr[1] "Жао нам је, али немате потребну дозволу да ажурирате %1$s додатака."
+msgstr[2] "Жао нам је, али немате потребну дозволу да ажурирате %1$s додатака."
+
+#: functions.php:377
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно је ажурирање за следеће додатке: %1$s."
+msgstr[1] "Доступно је ажурирање за следеће додатке: %1$s."
+msgstr[2] "Доступно је ажурирање за следеће додатке: %1$s."
+
+#: functions.php:376
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Дати додатак је потребно апдејтовати на најновију верзију да би се омогућила компатибилност са овом темом: %1$s."
+msgstr[1] "Дате додатке је потребно апдејтовати на најновије верзије да би се омогућила компатибилност са овом темом: %1$s."
+msgstr[2] "Дате додатке је потребно апдејтовати на најновије верзије да би се омогућила компатибилност са овом темом: %1$s."
+
+#: functions.php:375
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Жао нам је, али немате потребну дозволу да инсталирате %1$s додатак."
+msgstr[1] "Жао нам је, али немате потребну дозволу да инсталирате %1$s додатака."
+msgstr[2] "Жао нам је, али немате потребну дозволу да инсталирате %1$s додатака."
+
+#: functions.php:374
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ова тема препоручује следећи додатак: %1$s."
+msgstr[1] "Ова тема препоручује следеће додатке: %1$s."
+msgstr[2] "Ова тема препоручује следеће додатке: %1$s."
+
+#: functions.php:373
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ова тема захтева следећи додатак: %1$s."
+msgstr[1] "Ова тема захтева следеће додатке: %1$s."
+msgstr[2] "Ова тема захтева следеће додатке: %1$s."
+
+#: functions.php:372
+msgid "Something went wrong with the plugin API."
+msgstr "Нешто није у реду са приказом додатка (плаг-ина)."
+
+#: functions.php:371
+msgid "Installing Plugin: %s"
+msgstr "Постављање додатка: %s"
+
+#: functions.php:370
+msgid "Install Plugins"
+msgstr "Постави додатке"
+
+#: functions.php:369
+msgid "Install Required Plugins"
+msgstr "Инсталирај неопходне додатке"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:283
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:143
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Примарни изборник"
+
+#: inc/template-tags.php:1357
+msgid "%1$s theme by %2$s"
+msgstr "%1$s тема од %2$s"
+
+#: inc/template-tags.php:1355
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#: footer.php:44
+msgid "Back To Top"
+msgstr "Повратак на врх"
+
+#: inc/customizer.php:867 inc/template-tags.php:1618
+msgid "Join our Newsletter"
+msgstr "Придружите се нашем билтену"
+
+#: inc/customizer.php:790 inc/template-tags.php:1637
+msgid "Keep Updated"
+msgstr "Ажурирај редовно"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#: comments.php:59 comments.php:79
+msgid "Newer Comments"
+msgstr "Новији коментари"
+
+#: comments.php:58 comments.php:78
+msgid "Older Comments"
+msgstr "Старији коментари"
+
+#: comments.php:55 comments.php:75
+msgid "Comment navigation"
+msgstr "Кретање коментара"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Једно мишљење на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Покушајте са гледањем месечних архива. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Најкоришћеније категорије"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Изгледа да ништа није пронађено на овој локацији. Можда бисте требали да покушате неки од линкова доле или да употребите претрагу?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Та страница не може бити пронађена."
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"

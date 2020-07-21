@@ -1,0 +1,14 @@
+
+ .edit::after {
+    content: "";
+    font-family: Dashicons;
+}
+
+ .view::after {
+    content: "";
+	 font-family: Dashicons;
+}
+
+table tr.phoeniixx_woo_cust_manager_tr span {
+	display: block;
+}

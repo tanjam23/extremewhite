@@ -1,0 +1,1893 @@
+DEBUG   |190531 22:25:33|*** Batching successive steps (nesting level 1)
+DEBUG   |190531 22:25:33|====== Starting Step number 1 ======
+DEBUG   |190531 22:25:33|Kettenrad :: Switching domains
+DEBUG   |190531 22:25:33|Kettenrad :: BREAKING STEP BEFORE SWITCHING DOMAIN
+DEBUG   |190531 22:25:33|Switching to domain init, class Init
+DEBUG   |190531 22:25:33|Akeeba\Engine\Core\Domain\Init :: New instance
+DEBUG   |190531 22:25:33|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:33|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:33|Kettenrad :: Break flag status: YES
+DEBUG   |190531 22:25:33|----- Finished operation 1 ------
+DEBUG   |190531 22:25:33|Successful Smart algorithm on Akeeba\Engine\Core\Domain\Init
+DEBUG   |190531 22:25:33|====== Finished Step number 1 ======
+DEBUG   |190531 22:25:33|Kettenrad :: Setting the break flag between domains
+DEBUG   |190531 22:25:33|*** Engine steps batching: Break flag detected.
+DEBUG   |190531 22:25:33|*** Batching of engine steps finished. I will now return control to the caller.
+DEBUG   |190531 22:25:33|====== Starting Step number 2 ======
+DEBUG   |190531 22:25:33|Kettenrad :: Ticking the domain object
+INFO    |190531 22:25:33|--------------------------------------------------------------------------------
+INFO    |190531 22:25:33|Akeeba Backup 3.5.0 (2019-05-28)
+INFO    |190531 22:25:33|Got backup?
+INFO    |190531 22:25:33|--------------------------------------------------------------------------------
+INFO    |190531 22:25:33|--- System Information ---
+INFO    |190531 22:25:33|PHP Version        :7.3.2
+INFO    |190531 22:25:33|PHP OS             :WINNT
+INFO    |190531 22:25:33|PHP SAPI           :apache2handler
+INFO    |190531 22:25:33|OS Version         :Windows NT
+INFO    |190531 22:25:33|DB Version         :5.5.5-10.1.38-MariaDB
+INFO    |190531 22:25:33|Web Server         :Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2
+INFO    |190531 22:25:33|Akeeba Backup for WordPress version    :3.5.0
+INFO    |190531 22:25:33|User agent         :Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+INFO    |190531 22:25:33|Safe mode          :
+INFO    |190531 22:25:33|Display errors     :
+INFO    |190531 22:25:33|Error reporting    :E_ERROR | E_WARNING | E_PARSE | E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_USER_ERROR | E_USER_WARNING
+INFO    |190531 22:25:33|Error display      :off
+INFO    |190531 22:25:33|Disabled functions :
+INFO    |190531 22:25:33|open_basedir restr.:
+INFO    |190531 22:25:33|Max. exec. time    :30
+INFO    |190531 22:25:33|Memory limit       :256M
+INFO    |190531 22:25:33|Current mem. usage :66776584
+INFO    |190531 22:25:33|GZIP Compression   : available (good)
+INFO    |190531 22:25:33|APATH_BASE         :C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\app
+INFO    |190531 22:25:33|Application Path   :C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\app/Solo
+INFO    |190531 22:25:33|Site root          :<root>
+DEBUG   |190531 22:25:33|PHP WARNING (not an error; you can ignore) on line 481 in file C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\helpers\Platform\Wordpress\Platform.php:
+DEBUG   |190531 22:25:33|Use of undefined constant JPATH_ROOT - assumed 'JPATH_ROOT' (this will throw an Error in a future version of PHP)
+DEBUG   |190531 22:25:33|PHP WARNING (not an error; you can ignore) on line 481 in file C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\helpers\Platform\Wordpress\Platform.php:
+DEBUG   |190531 22:25:33|Use of undefined constant JPATH_ROOT - assumed 'JPATH_ROOT' (this will throw an Error in a future version of PHP)
+INFO    |190531 22:25:33|Min/Max/Bias       :2000/25/75
+INFO    |190531 22:25:33|Output directory   :C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\app/backups
+INFO    |190531 22:25:33|Part size (bytes)  :2147352576
+INFO    |190531 22:25:33|--------------------------------------------------------------------------------
+INFO    |190531 22:25:33|Akeeba Backup has detected the following potential problems:
+INFO    |190531 22:25:33|- 203 Default output directory in use (low)
+INFO    |190531 22:25:33|You probably do not have to worry about them, but you should be aware of them.
+INFO    |190531 22:25:33|--------------------------------------------------------------------------------
+INFO    |190531 22:25:33|Loaded profile #1
+DEBUG   |190531 22:25:33|Archive template name: site-[HOST]-[DATE]-[TIME_TZ]
+DEBUG   |190531 22:25:33|Expanded template name: site-localhost-20190601-002533cest
+DEBUG   |190531 22:25:33|Backup type is now set to 'full'
+DEBUG   |190531 22:25:33|Expanded archive file name: <root>wp-content/plugins/akeebabackupwp/app/backups/site-localhost-20190601-002533cest.jpa
+DEBUG   |190531 22:25:33|Initializing archiver engine
+DEBUG   |190531 22:25:33|Akeeba\Engine\Archiver\Jpa :: new instance - archive <root>wp-content/plugins/akeebabackupwp/app/backups/site-localhost-20190601-002533cest.jpa
+INFO    |190531 22:25:33|Akeeba\Engine\Archiver\BaseArchiver :: Split JPA creation enabled
+DEBUG   |190531 22:25:33|Updating multipart status to 1
+DEBUG   |190531 22:25:33|Akeeba\Engine\Archiver\BaseArchiver :: Killing old archive
+DEBUG   |190531 22:25:33|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:33|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:33|----- Finished operation 1 ------
+DEBUG   |190531 22:25:33|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:33|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:33|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:33|----- Finished operation 2 ------
+DEBUG   |190531 22:25:33|Successful Smart algorithm on Akeeba\Engine\Core\Domain\Init
+DEBUG   |190531 22:25:33|Kettenrad :: Domain 'init' has finished.
+DEBUG   |190531 22:25:33|====== Finished Step number 2 ======
+DEBUG   |190531 22:25:33|Kettenrad :: Setting the break flag between domains
+DEBUG   |190531 22:25:33|*** Engine steps batching: Break flag detected.
+DEBUG   |190531 22:25:33|*** Batching of engine steps finished. I will now return control to the caller.
+DEBUG   |190531 22:25:33|Sleeping for 1930.7610988617 msec, using usleep()
+DEBUG   |190531 22:25:35|Saving Kettenrad instance backend
+DEBUG   |190531 22:25:38|Kettenrad :: Attempting to load from database (backend) [backend.id2]
+DEBUG   |190531 22:25:38| -- Loaded stored Akeeba Factory (backend) [backend.id2]
+DEBUG   |190531 22:25:38|====== Starting Step number 3 ======
+DEBUG   |190531 22:25:38|Kettenrad :: Switching domains
+DEBUG   |190531 22:25:38|Kettenrad :: BREAKING STEP BEFORE SWITCHING DOMAIN
+DEBUG   |190531 22:25:38|Switching to domain installer, class Installer
+DEBUG   |190531 22:25:38|Akeeba\Engine\Core\Domain\Installer :: New instance
+DEBUG   |190531 22:25:38|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:38|Truncating backup archive file <root>wp-content/plugins/akeebabackupwp/app/backups/site-localhost-20190601-002533cest.j01 to 27 bytes
+DEBUG   |190531 22:25:38|-- Adding installation/README.html to archive (virtual data)
+DEBUG   |190531 22:25:38|-- Adding installation/extrainfo.json to archive (virtual data)
+DEBUG   |190531 22:25:38|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:38|Kettenrad :: Break flag status: YES
+DEBUG   |190531 22:25:38|----- Finished operation 1 ------
+DEBUG   |190531 22:25:38|Successful Smart algorithm on Akeeba\Engine\Core\Domain\Installer
+DEBUG   |190531 22:25:38|====== Finished Step number 3 ======
+DEBUG   |190531 22:25:38|Kettenrad :: Setting the break flag between domains
+DEBUG   |190531 22:25:38|*** Engine steps batching: Break flag detected.
+DEBUG   |190531 22:25:38|*** Batching of engine steps finished. I will now return control to the caller.
+DEBUG   |190531 22:25:38|Sleeping for 1975.4199981689 msec, using usleep()
+DEBUG   |190531 22:25:40|Saving Kettenrad instance backend
+DEBUG   |190531 22:25:43|Kettenrad :: Attempting to load from database (backend) [backend.id2]
+DEBUG   |190531 22:25:43| -- Loaded stored Akeeba Factory (backend) [backend.id2]
+DEBUG   |190531 22:25:43|====== Starting Step number 4 ======
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|Initializing with JPA package C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\app/Solo/assets/installers/angie.jpa
+DEBUG   |190531 22:25:43|  Adding installation/defines.php; Next offset:505
+DEBUG   |190531 22:25:43|Truncating backup archive file <root>wp-content/plugins/akeebabackupwp/app/backups/site-localhost-20190601-002533cest.j01 to 616 bytes
+DEBUG   |190531 22:25:43|-- Adding installation/defines.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 1 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/index.php; Next offset:2107
+DEBUG   |190531 22:25:43|-- Adding installation/index.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 2 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/factory.php; Next offset:3693
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/factory.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 3 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/pdo.php; Next offset:9712
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/pdo.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 4 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/postgresql.php; Next offset:18299
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/postgresql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 5 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/mysql.php; Next offset:21795
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/mysql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 6 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/mysqli.php; Next offset:27457
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/mysqli.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 7 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/sqlsrv.php; Next offset:33936
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/sqlsrv.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 8 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/pgsql.php; Next offset:37566
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/pgsql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 9 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/sqlite.php; Next offset:40730
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/sqlite.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 10 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/pdomysql.php; Next offset:44859
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/pdomysql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 11 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver/sqlazure.php; Next offset:45472
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver/sqlazure.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 12 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/driver.php; Next offset:54658
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/driver.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 13 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore.php; Next offset:61528
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 14 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query.php; Next offset:68329
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 15 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/pdo.php; Next offset:68799
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/pdo.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 16 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/preparable.php; Next offset:69916
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/preparable.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 17 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/postgresql.php; Next offset:73177
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/postgresql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 18 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/mysql.php; Next offset:73678
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/mysql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 19 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/mysqli.php; Next offset:74865
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/mysqli.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 20 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/sqlsrv.php; Next offset:76547
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/sqlsrv.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 21 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/pgsql.php; Next offset:77054
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/pgsql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 22 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/sqlite.php; Next offset:79318
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/sqlite.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 23 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/pdomysql.php; Next offset:79827
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/pdomysql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 24 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/sqlazure.php; Next offset:80533
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/sqlazure.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 25 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/query/limitable.php; Next offset:81503
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/query/limitable.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 26 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/postgresql.php; Next offset:84582
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/postgresql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 27 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/mysql.php; Next offset:84922
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/mysql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 28 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/mysqli.php; Next offset:90337
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/mysqli.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 29 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/sqlsrv.php; Next offset:93064
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/sqlsrv.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 30 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/pgsql.php; Next offset:93408
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/pgsql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 31 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/pdomysql.php; Next offset:93756
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/pdomysql.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 32 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/database/restore/sqlazure.php; Next offset:94102
+DEBUG   |190531 22:25:43|-- Adding installation/framework/database/restore/sqlazure.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 33 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/ftp/ftp.php; Next offset:99573
+DEBUG   |190531 22:25:43|-- Adding installation/framework/ftp/ftp.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 34 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/input/input.php; Next offset:101740
+DEBUG   |190531 22:25:43|-- Adding installation/framework/input/input.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 35 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/timer/timer.php; Next offset:103585
+DEBUG   |190531 22:25:43|-- Adding installation/framework/timer/timer.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 36 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/dispatcher/dispatcher.php; Next offset:105808
+DEBUG   |190531 22:25:43|-- Adding installation/framework/dispatcher/dispatcher.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 37 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/phptokenizer.php; Next offset:108399
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/phptokenizer.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 38 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/servertechnology.php; Next offset:109111
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/servertechnology.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 39 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/PasswordHash.php; Next offset:111593
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/PasswordHash.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 40 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/path.php; Next offset:113023
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/path.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 41 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/ip.php; Next offset:117171
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/ip.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 42 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/password.php; Next offset:119926
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/password.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 43 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/serialised.php; Next offset:121612
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/serialised.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 44 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/randval.php; Next offset:123273
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/randval.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 45 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/utils/buffer.php; Next offset:124828
+DEBUG   |190531 22:25:43|-- Adding installation/framework/utils/buffer.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 46 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/document/document.php; Next offset:126847
+DEBUG   |190531 22:25:43|-- Adding installation/framework/document/document.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 47 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/document/json.php; Next offset:127219
+DEBUG   |190531 22:25:43|-- Adding installation/framework/document/json.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 48 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/document/raw.php; Next offset:127580
+DEBUG   |190531 22:25:43|-- Adding installation/framework/document/raw.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 49 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/document/html.php; Next offset:128008
+DEBUG   |190531 22:25:43|-- Adding installation/framework/document/html.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 50 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/controller/controller.php; Next offset:134446
+DEBUG   |190531 22:25:43|-- Adding installation/framework/controller/controller.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 51 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/container/container.php; Next offset:135177
+DEBUG   |190531 22:25:43|-- Adding installation/framework/container/container.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 52 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/pimple/pimple.php; Next offset:137709
+DEBUG   |190531 22:25:43|-- Adding installation/framework/pimple/pimple.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 53 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/pimple/ServiceProviderInterface.php; Next offset:138229
+DEBUG   |190531 22:25:43|-- Adding installation/framework/pimple/ServiceProviderInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 54 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/object/object.php; Next offset:139401
+DEBUG   |190531 22:25:43|-- Adding installation/framework/object/object.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 55 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/download/download.php; Next offset:143138
+DEBUG   |190531 22:25:43|-- Adding installation/framework/download/download.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 56 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/download/interface.php; Next offset:144263
+DEBUG   |190531 22:25:43|-- Adding installation/framework/download/interface.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 57 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/download/adapter/abstract.php; Next offset:145560
+DEBUG   |190531 22:25:43|-- Adding installation/framework/download/adapter/abstract.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 58 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/download/adapter/curl.php; Next offset:147682
+DEBUG   |190531 22:25:43|-- Adding installation/framework/download/adapter/curl.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 59 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/download/adapter/fopen.php; Next offset:149316
+DEBUG   |190531 22:25:43|-- Adding installation/framework/download/adapter/fopen.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 60 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/download/adapter/cacert.pem; Next offset:315721
+DEBUG   |190531 22:25:43|-- Adding installation/framework/download/adapter/cacert.pem to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 61 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/model/model.php; Next offset:319367
+DEBUG   |190531 22:25:43|-- Adding installation/framework/model/model.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 62 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/view/view.php; Next offset:324181
+DEBUG   |190531 22:25:43|-- Adding installation/framework/view/view.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 63 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/log/log.php; Next offset:324867
+DEBUG   |190531 22:25:43|-- Adding installation/framework/log/log.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 64 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/LICENSE; Next offset:325571
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/LICENSE to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 65 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Parser.php; Next offset:331032
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Parser.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 66 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/CHANGELOG.md; Next offset:331252
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/CHANGELOG.md to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 67 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Escaper.php; Next offset:332452
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Escaper.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 68 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/README.md; Next offset:332750
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/README.md to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 69 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Unescaper.php; Next offset:334043
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Unescaper.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 70 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Dumper.php; Next offset:335025
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Dumper.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 71 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Inline.php; Next offset:339286
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Inline.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 72 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Yaml.php; Next offset:340554
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Yaml.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 73 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/phpunit.xml.dist; Next offset:340957
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/phpunit.xml.dist to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 74 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Exception/DumpException.php; Next offset:341329
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Exception/DumpException.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 75 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Exception/ExceptionInterface.php; Next offset:341693
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Exception/ExceptionInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 76 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Exception/RuntimeException.php; Next offset:342100
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Exception/RuntimeException.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 77 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/Exception/ParseException.php; Next offset:343186
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/Exception/ParseException.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 78 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Symfony/Component/Yaml/composer.json; Next offset:343594
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Symfony/Component/Yaml/composer.json to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 79 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/text/text.php; Next offset:345505
+DEBUG   |190531 22:25:43|-- Adding installation/framework/text/text.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 80 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/application/application.php; Next offset:348879
+DEBUG   |190531 22:25:43|-- Adding installation/framework/application/application.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 81 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/filter/input.php; Next offset:354847
+DEBUG   |190531 22:25:43|-- Adding installation/framework/filter/input.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 82 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/uri/uri.php; Next offset:359435
+DEBUG   |190531 22:25:43|-- Adding installation/framework/uri/uri.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 83 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/exception/dispatch.php; Next offset:359781
+DEBUG   |190531 22:25:43|-- Adding installation/framework/exception/dispatch.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 84 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/exception/download.php; Next offset:360128
+DEBUG   |190531 22:25:43|-- Adding installation/framework/exception/download.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 85 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/exception/app.php; Next offset:360465
+DEBUG   |190531 22:25:43|-- Adding installation/framework/exception/app.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 86 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/exception/interface.php; Next offset:360789
+DEBUG   |190531 22:25:43|-- Adding installation/framework/exception/interface.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 87 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/autoloader.php; Next offset:361772
+DEBUG   |190531 22:25:43|-- Adding installation/framework/autoloader.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 88 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/Autoloader/Autoloader.php; Next offset:363635
+DEBUG   |190531 22:25:43|-- Adding installation/framework/Autoloader/Autoloader.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 89 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/framework/session/session.php; Next offset:367446
+DEBUG   |190531 22:25:43|-- Adding installation/framework/session/session.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 90 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/index.php; Next offset:368765
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/index.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 91 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/php_version.php; Next offset:371927
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/php_version.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 92 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/css/theme.css; Next offset:373369
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/css/theme.css to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 93 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/css/fef.min.css; Next offset:395132
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/css/fef.min.css to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 94 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/css/.gitinclude; Next offset:395197
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/css/.gitinclude to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 95 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/tooltip.js; Next offset:397667
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/tooltip.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 96 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/system.js; Next offset:406497
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/system.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 97 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/menu.min.js; Next offset:406904
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/menu.min.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 98 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/tabs.min.js; Next offset:407565
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/tabs.min.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 99 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/dropdown.min.js; Next offset:408366
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/dropdown.min.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 100 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/modal.js; Next offset:411405
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/modal.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 101 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/.gitinclude; Next offset:411469
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/.gitinclude to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 102 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/js/jquery.js; Next offset:444286
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/js/jquery.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 103 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/php/buttons.php; Next offset:444921
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/php/buttons.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 104 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/php/head.php; Next offset:445682
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/php/head.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 105 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/php/messages.php; Next offset:446245
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/php/messages.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 106 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/image/modal-close.png; Next offset:447123
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/image/modal-close.png to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 107 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/image/loading_small.gif; Next offset:451040
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/image/loading_small.gif to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 108 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/error.php; Next offset:452198
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/error.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 109 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/akeeba/Akeeba-Products.svg; Next offset:501330
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/akeeba/Akeeba-Products.svg to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 110 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/akeeba/Akeeba-Products.ttf; Next offset:514433
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/akeeba/Akeeba-Products.ttf to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 111 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/akeeba/Akeeba-Products.woff; Next offset:527707
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/akeeba/Akeeba-Products.woff to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 112 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/akeeba/Akeeba-Products.eot; Next offset:540864
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/akeeba/Akeeba-Products.eot to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 113 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/Ionicon/ionicons.eot; Next offset:609862
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/Ionicon/ionicons.eot to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 114 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/Ionicon/ionicons.woff; Next offset:676836
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/Ionicon/ionicons.woff to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 115 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/Ionicon/ionicons.ttf; Next offset:786690
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/Ionicon/ionicons.ttf to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 116 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/Ionicon/ionicons.svg; Next offset:889499
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/Ionicon/ionicons.svg to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 117 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/template/flat/fonts/.gitinclude; Next offset:889566
+DEBUG   |190531 22:25:43|-- Adding installation/template/flat/fonts/.gitinclude to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 118 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/version.php; Next offset:889923
+DEBUG   |190531 22:25:43|-- Adding installation/version.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 119 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/application.php; Next offset:890474
+DEBUG   |190531 22:25:43|-- Adding installation/angie/application.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 120 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/dispatcher.php; Next offset:891639
+DEBUG   |190531 22:25:43|-- Adding installation/angie/dispatcher.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 121 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/database.js; Next offset:893734
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/database.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 122 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/polyfills.js; Next offset:897405
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/polyfills.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 123 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/offsitedirs.js; Next offset:898369
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/offsitedirs.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 124 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/main.js; Next offset:899475
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/main.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 125 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/ftpbrowser.js; Next offset:899877
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/ftpbrowser.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 126 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/ajax.js; Next offset:901193
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/ajax.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 127 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/json.js; Next offset:902696
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/json.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 128 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/js/finalise.js; Next offset:903439
+DEBUG   |190531 22:25:43|-- Adding installation/angie/js/finalise.js to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 129 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/language/index.html; Next offset:903534
+DEBUG   |190531 22:25:43|-- Adding installation/angie/language/index.html to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 130 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/language/en-GB.ini; Next offset:916841
+DEBUG   |190531 22:25:43|-- Adding installation/angie/language/en-GB.ini to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 131 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/models/offsitedirs.php; Next offset:917173
+DEBUG   |190531 22:25:43|-- Adding installation/angie/models/offsitedirs.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 132 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/models/steps.php; Next offset:919569
+DEBUG   |190531 22:25:43|-- Adding installation/angie/models/steps.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 133 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/models/ftpbrowser.php; Next offset:921132
+DEBUG   |190531 22:25:43|-- Adding installation/angie/models/ftpbrowser.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 134 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/models/database.php; Next offset:922753
+DEBUG   |190531 22:25:43|-- Adding installation/angie/models/database.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 135 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/models/session.php; Next offset:923907
+DEBUG   |190531 22:25:43|-- Adding installation/angie/models/session.php to archive (virtual data)
+DEBUG   |190531 22:25:43|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:43|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:43|----- Finished operation 136 ------
+DEBUG   |190531 22:25:43|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:43|  Adding installation/angie/models/finalise.php; Next offset:924235
+DEBUG   |190531 22:25:43|-- Adding installation/angie/models/finalise.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 137 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/models/base/offsitedirs.php; Next offset:925443
+DEBUG   |190531 22:25:44|-- Adding installation/angie/models/base/offsitedirs.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 138 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/models/base/main.php; Next offset:927083
+DEBUG   |190531 22:25:44|-- Adding installation/angie/models/base/main.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 139 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/models/base/configuration.php; Next offset:928380
+DEBUG   |190531 22:25:44|-- Adding installation/angie/models/base/configuration.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 140 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/models/base/setup.php; Next offset:929583
+DEBUG   |190531 22:25:44|-- Adding installation/angie/models/base/setup.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 141 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/models/base/finalise.php; Next offset:930874
+DEBUG   |190531 22:25:44|-- Adding installation/angie/models/base/finalise.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 142 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/offsitedirs.php; Next offset:931675
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/offsitedirs.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 143 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/dbrestore.php; Next offset:932585
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/dbrestore.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 144 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/session.php; Next offset:933138
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/session.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 145 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/password.php; Next offset:933729
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/password.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 146 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/finalise.php; Next offset:934065
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/finalise.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 147 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/base/main.php; Next offset:934598
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/base/main.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 148 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/base/setup.php; Next offset:935283
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/base/setup.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 149 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/controllers/base/finalise.php; Next offset:935948
+DEBUG   |190531 22:25:44|-- Adding installation/angie/controllers/base/finalise.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 150 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/database/tmpl/default.php; Next offset:939033
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/database/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 151 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/database/view.html.php; Next offset:939663
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/database/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 152 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/password/tmpl/default.php; Next offset:940470
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/password/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 153 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/steps/tmpl/steps.php; Next offset:941385
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/steps/tmpl/steps.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 154 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/steps/tmpl/buttons.php; Next offset:942391
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/steps/tmpl/buttons.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 155 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/ftpbrowser/tmpl/default.php; Next offset:943390
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/ftpbrowser/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 156 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/ftpbrowser/view.html.php; Next offset:943990
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/ftpbrowser/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 157 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/finalise/tmpl/config.php; Next offset:944522
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/finalise/tmpl/config.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 158 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/finalise/tmpl/success.php; Next offset:944916
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/finalise/tmpl/success.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 159 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/finalise/tmpl/default.php; Next offset:946144
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/finalise/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 160 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/main/tmpl/panel_backupinfo.php; Next offset:946979
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/main/tmpl/panel_backupinfo.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 161 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/main/tmpl/panel_serverinfo.php; Next offset:947550
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/main/tmpl/panel_serverinfo.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 162 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/main/tmpl/panel_required.php; Next offset:948318
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/main/tmpl/panel_required.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 163 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/main/tmpl/panel_recommended.php; Next offset:949075
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/main/tmpl/panel_recommended.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 164 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/main/tmpl/default.php; Next offset:949987
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/main/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 165 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/main/view.raw.php; Next offset:950994
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/main/view.raw.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 166 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/offsitedirs/tmpl/default.php; Next offset:952262
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/offsitedirs/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 167 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/offsitedirs/view.html.php; Next offset:952818
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/offsitedirs/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 168 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/runscripts/view.raw.php; Next offset:953694
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/runscripts/view.raw.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 169 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/session/tmpl/blocked.php; Next offset:954543
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/session/tmpl/blocked.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 170 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/session/tmpl/default.php; Next offset:956162
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/session/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 171 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/views/session/view.html.php; Next offset:956589
+DEBUG   |190531 22:25:44|-- Adding installation/angie/views/session/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 172 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/assets/runscripts.php; Next offset:957754
+DEBUG   |190531 22:25:44|-- Adding installation/angie/assets/runscripts.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 173 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/helpers/ini.php; Next offset:959399
+DEBUG   |190531 22:25:44|-- Adding installation/angie/helpers/ini.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 174 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/helpers/setup.php; Next offset:960075
+DEBUG   |190531 22:25:44|-- Adding installation/angie/helpers/setup.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 175 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/helpers/select.php; Next offset:964209
+DEBUG   |190531 22:25:44|-- Adding installation/angie/helpers/select.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 176 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/angie/autoloader.php; Next offset:965202
+DEBUG   |190531 22:25:44|-- Adding installation/angie/autoloader.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 177 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/tmp/index.html; Next offset:965286
+DEBUG   |190531 22:25:44|-- Adding installation/tmp/index.html to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 178 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/tmp/web.config; Next offset:965448
+DEBUG   |190531 22:25:44|-- Adding installation/tmp/web.config to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 179 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/tmp/.htaccess; Next offset:965599
+DEBUG   |190531 22:25:44|-- Adding installation/tmp/.htaccess to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 180 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Skipping installation/sql/
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 181 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Done with package angie.jpa
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 182 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|Initializing with JPA package C:\xampp\htdocs\wordpress\wp-content\plugins\akeebabackupwp\app/Solo/assets/installers/angie-wordpress.jpa
+DEBUG   |190531 22:25:44|  Adding installation/platform/defines.php; Next offset:456
+DEBUG   |190531 22:25:44|-- Adding installation/platform/defines.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 183 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/steps.php; Next offset:895
+DEBUG   |190531 22:25:44|-- Adding installation/platform/steps.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 184 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/js/main.js; Next offset:1178
+DEBUG   |190531 22:25:44|-- Adding installation/platform/js/main.js to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 185 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/js/replacedata.js; Next offset:4614
+DEBUG   |190531 22:25:44|-- Adding installation/platform/js/replacedata.js to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 186 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/js/finalise_wp.js; Next offset:5283
+DEBUG   |190531 22:25:44|-- Adding installation/platform/js/finalise_wp.js to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 187 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/js/setup.js; Next offset:6198
+DEBUG   |190531 22:25:44|-- Adding installation/platform/js/setup.js to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 188 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/language/index.html; Next offset:6296
+DEBUG   |190531 22:25:44|-- Adding installation/platform/language/index.html to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 189 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/language/en-GB.ini; Next offset:9080
+DEBUG   |190531 22:25:44|-- Adding installation/platform/language/en-GB.ini to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 190 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/models/nullwriter.php; Next offset:9608
+DEBUG   |190531 22:25:44|-- Adding installation/platform/models/nullwriter.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 191 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/models/wordpressmain.php; Next offset:11120
+DEBUG   |190531 22:25:44|-- Adding installation/platform/models/wordpressmain.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 192 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/models/wordpresssetup.php; Next offset:14603
+DEBUG   |190531 22:25:44|-- Adding installation/platform/models/wordpresssetup.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 193 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/models/wordpressfinalise.php; Next offset:19828
+DEBUG   |190531 22:25:44|-- Adding installation/platform/models/wordpressfinalise.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 194 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/models/wordpressconfiguration.php; Next offset:23907
+DEBUG   |190531 22:25:44|-- Adding installation/platform/models/wordpressconfiguration.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 195 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/models/wordpressreplacedata.php; Next offset:32600
+DEBUG   |190531 22:25:44|-- Adding installation/platform/models/wordpressreplacedata.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 196 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/DatabaseAwareInterface.php; Next offset:32938
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/DatabaseAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 197 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/WordPressTrait.php; Next offset:35030
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/WordPressTrait.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 198 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver/Pdo.php; Next offset:41084
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver/Pdo.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 199 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver/WordPressMySQL.php; Next offset:42113
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver/WordPressMySQL.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 200 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver/WordPressMySQLi.php; Next offset:43192
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver/WordPressMySQLi.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 201 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver/Mysql.php; Next offset:45997
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver/Mysql.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 202 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver/Mysqli.php; Next offset:50790
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver/Mysqli.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 203 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver/Pdomysql.php; Next offset:54353
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver/Pdomysql.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 204 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/DatabaseAware.php; Next offset:54800
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/DatabaseAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 205 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Driver.php; Next offset:64621
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Driver.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 206 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/QueryLimitable.php; Next offset:65402
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/QueryLimitable.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 207 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/QueryPreparable.php; Next offset:66346
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/QueryPreparable.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 208 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/DatabaseInterface.php; Next offset:66731
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/DatabaseInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 209 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/QueryElement.php; Next offset:67600
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/QueryElement.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 210 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Query.php; Next offset:75178
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Query.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 211 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Query/Pdo.php; Next offset:76067
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Query/Pdo.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 212 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Query/Mysql.php; Next offset:76407
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Query/Mysql.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 213 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Query/Mysqli.php; Next offset:76768
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Query/Mysqli.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 214 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Query/Pdomysql.php; Next offset:77130
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Query/Pdomysql.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 215 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Query/LimitAware.php; Next offset:78116
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Query/LimitAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 216 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Metadata/Database.php; Next offset:78873
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Metadata/Database.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 217 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Metadata/Column.php; Next offset:80523
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Metadata/Column.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 218 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Database/Metadata/Table.php; Next offset:81582
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Database/Metadata/Table.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 219 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Logger/LoggerAwareInterface.php; Next offset:81978
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Logger/LoggerAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 220 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Logger/FileLogger.php; Next offset:83111
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Logger/FileLogger.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 221 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Logger/NullLogger.php; Next offset:83707
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Logger/NullLogger.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 222 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Logger/LoggerInterface.php; Next offset:84757
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Logger/LoggerInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 223 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Logger/LoggerAware.php; Next offset:85305
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Logger/LoggerAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 224 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Logger/AbstractLogger.php; Next offset:86597
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Logger/AbstractLogger.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 225 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Timer/TimerInterface.php; Next offset:87179
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Timer/TimerInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 226 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Timer/Timer.php; Next offset:87969
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Timer/Timer.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 227 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Timer/TimerAware.php; Next offset:88490
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Timer/TimerAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 228 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Timer/TimerAwareInterface.php; Next offset:88948
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Timer/TimerAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 229 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Replacement/Replacement.php; Next offset:90707
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Replacement/Replacement.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 230 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Writer/FileWriter.php; Next offset:93578
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Writer/FileWriter.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 231 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Writer/NullWriter.php; Next offset:94033
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Writer/NullWriter.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 232 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Writer/WriterInterface.php; Next offset:94932
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Writer/WriterInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 233 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/PartStatus.php; Next offset:97319
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/PartStatus.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 234 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/StatusInterface.php; Next offset:97784
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/StatusInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 235 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/ConfigurationAware.php; Next offset:98245
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/ConfigurationAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 236 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/OutputWriterAwareInterface.php; Next offset:98658
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/OutputWriterAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 237 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Response/SQL.php; Next offset:99308
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Response/SQL.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 238 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/OutputWriterAware.php; Next offset:99834
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/OutputWriterAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 239 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Configuration.php; Next offset:102665
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Configuration.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 240 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/BackupWriterAware.php; Next offset:103190
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/BackupWriterAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 241 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Database/ActionInterface.php; Next offset:103805
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Database/ActionInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 242 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Database/ActionAware.php; Next offset:105435
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Database/ActionAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 243 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Database/Collation.php; Next offset:106081
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Database/Collation.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 244 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Database/AbstractAction.php; Next offset:106569
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Database/AbstractAction.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 245 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/ActionAwareInterface.php; Next offset:107260
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/ActionAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 246 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/ActionAware.php; Next offset:108468
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/ActionAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 247 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Table/ActionInterface.php; Next offset:109107
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Table/ActionInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 248 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Table/ActionAware.php; Next offset:110781
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Table/ActionAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 249 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Table/Collation.php; Next offset:111815
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Table/Collation.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 250 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Action/Table/AbstractAction.php; Next offset:112304
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Action/Table/AbstractAction.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 251 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/ConfigurationAwareInterface.php; Next offset:112692
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/ConfigurationAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 252 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Part/Database.php; Next offset:116712
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Part/Database.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 253 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Part/Table.php; Next offset:123071
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Part/Table.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 254 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Column/FilterInterface.php; Next offset:123676
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Column/FilterInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 255 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Column/AbstractFilter.php; Next offset:124285
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Column/AbstractFilter.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 256 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Column/NonText.php; Next offset:124923
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Column/NonText.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 257 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Column/UserFilters.php; Next offset:126032
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Column/UserFilters.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 258 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Row/FilterInterface.php; Next offset:126634
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Row/FilterInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 259 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Row/AbstractFilter.php; Next offset:127238
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Row/AbstractFilter.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 260 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Row/WordPressOptions.php; Next offset:127915
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Row/WordPressOptions.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 261 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Table/FilterInterface.php; Next offset:128489
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Table/FilterInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 262 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Table/AbstractFilter.php; Next offset:129096
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Table/AbstractFilter.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 263 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Table/NonCore.php; Next offset:129812
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Table/NonCore.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 264 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Filter/Table/UserFilters.php; Next offset:130564
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Filter/Table/UserFilters.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 265 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Helper/MemoryInfo.php; Next offset:131844
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Helper/MemoryInfo.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 266 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/Helper/OutFileSetup.php; Next offset:133864
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/Helper/OutFileSetup.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 267 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/Core/BackupWriterAwareInterface.php; Next offset:134277
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/Core/BackupWriterAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 268 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/AbstractPart.php; Next offset:136101
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/AbstractPart.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 269 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/StepAwareInterface.php; Next offset:136653
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/StepAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 270 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/ErrorHandling/ErrorException.php; Next offset:137002
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/ErrorHandling/ErrorException.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 271 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/ErrorHandling/ErrorAwareInterface.php; Next offset:137621
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/ErrorHandling/ErrorAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 272 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/ErrorHandling/WarningsAware.php; Next offset:138992
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/ErrorHandling/WarningsAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 273 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/ErrorHandling/ErrorAware.php; Next offset:139870
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/ErrorHandling/ErrorAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 274 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/ErrorHandling/WarningException.php; Next offset:140227
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/ErrorHandling/WarningException.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 275 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/ErrorHandling/WarningsAwareInterface.php; Next offset:141122
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/ErrorHandling/WarningsAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 276 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/DomainAware.php; Next offset:141702
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/DomainAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 277 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/PartInterface.php; Next offset:142527
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/PartInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 278 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/StepAware.php; Next offset:143139
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/StepAware.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 279 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Engine/DomainAwareInterface.php; Next offset:143616
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Engine/DomainAwareInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 280 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Detection/WordPress.php; Next offset:146363
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Detection/WordPress.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 281 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Detection/DetectionInterface.php; Next offset:146932
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Detection/DetectionInterface.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 282 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/lib/Autoloader/Autoloader.php; Next offset:148625
+DEBUG   |190531 22:25:44|-- Adding installation/platform/lib/Autoloader/Autoloader.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 283 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/iniprocess.php; Next offset:149276
+DEBUG   |190531 22:25:44|-- Adding installation/platform/iniprocess.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 284 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/controllers/wordpressmain.php; Next offset:149989
+DEBUG   |190531 22:25:44|-- Adding installation/platform/controllers/wordpressmain.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 285 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/controllers/wordpresssetup.php; Next offset:150739
+DEBUG   |190531 22:25:44|-- Adding installation/platform/controllers/wordpresssetup.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 286 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/controllers/wordpressfinalise.php; Next offset:151265
+DEBUG   |190531 22:25:44|-- Adding installation/platform/controllers/wordpressfinalise.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 287 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/controllers/wordpressreplacedata.php; Next offset:152616
+DEBUG   |190531 22:25:44|-- Adding installation/platform/controllers/wordpressreplacedata.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 288 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/replacedata/tmpl/default.php; Next offset:154872
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/replacedata/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 289 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/replacedata/view.html.php; Next offset:155473
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/replacedata/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 290 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/setup/tmpl/default.php; Next offset:157252
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/setup/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 291 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/setup/view.html.php; Next offset:157970
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/setup/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 292 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/finalise/tmpl/default.php; Next offset:159472
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/finalise/tmpl/default.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 293 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/finalise/view.html.php; Next offset:160212
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/finalise/view.html.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 294 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Adding installation/platform/views/main/tmpl/init.php; Next offset:160846
+DEBUG   |190531 22:25:44|-- Adding installation/platform/views/main/tmpl/init.php to archive (virtual data)
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 295 ------
+DEBUG   |190531 22:25:44|Kettenrad :: Ticking the domain object
+DEBUG   |190531 22:25:44|  Done with package angie-wordpress.jpa
+DEBUG   |190531 22:25:44|  Done with installer seeding.
+DEBUG   |190531 22:25:44|Initializing with JPA package has finished
+DEBUG   |190531 22:25:44|Akeeba\Engine\Core\Domain\Installer:: archive is initialized
+DEBUG   |190531 22:25:44|Kettenrad :: Domain object returned; propagating
+DEBUG   |190531 22:25:44|Kettenrad :: Break flag status: no
+DEBUG   |190531 22:25:44|----- Finished operation 296 ------
+DEBUG   |190531 22:25:44|Successful Smart algorithm on Akeeba\Engine\Core\Domain\Installer
+DEBUG   |190531 22:25:44|Kettenrad :: Domain 'installer' has finished.
+DEBUG   |190531 22:25:44|====== Finished Step number 4 ======
+DEBUG   |190531 22:25:44|Kettenrad :: Setting the break flag between domains
+DEBUG   |190531 22:25:44|*** Engine steps batching: Break flag detected.
+DEBUG   |190531 22:25:44|*** Batching of engine steps finished. I will now return control to the caller.
+DEBUG   |190531 22:25:44|Sleeping for 1305.7999610901 msec, using usleep()
+DEBUG   |190531 22:25:45|Saving Kettenrad instance backend
+DEBUG   |190602 20:07:03|Kettenrad :: Attempting to load from database (backend.id2) [backend.id2]
+DEBUG   |190602 20:07:03| -- Loaded stored Akeeba Factory (backend.id2) [backend.id2]
